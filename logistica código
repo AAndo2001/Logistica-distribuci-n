@@ -1,0 +1,74 @@
+{
+  "AL": {
+    "name": "Alabama",
+    "tamano": "Grande",
+    "lat": "-16.528064",
+    "long": "-68.104593"
+  },
+  "AK": {
+    "name": "Alaska",
+    "tamano": "Mediana",
+    "lat": "-16.527435",
+    "long": "-68.107181"
+  },
+  "AZ": {
+    "name": "Arizona",
+    "tamano": "Mediana",
+    "lat": "-16.523135
+    "long": "-68.112321"
+  },
+  "AR": {
+    "name": "Arkansas",
+    "tamano": "Mediana",
+    "lat": "-16.528979",
+    "long": "-68.104160"
+  },
+  "CA": {
+    "name": "California",
+    "tamano": "Mediana",
+    "lat": "-16.523421",
+    "long": "-68.112526"
+  },
+  "CO": {
+    "name": "Colorado",
+    "tamano": "Mediana",
+    "lat": "-16.527154",
+    "long": "-68.106036"
+  },
+  "CT": {
+    "name": "Connecticut",
+    "tamano": "Pequeña",
+    "lat": "-16.527530",
+    "long": "-68.108912"
+  },
+  "DE": {
+    "name": "Delaware",
+    "tamano": "Pequeña",
+    "lat": "-16.526884",
+    "long": "-68.109526"
+  },
+  "FL": {
+    "name": "Florida",
+    "tamano": "Pequeña",
+    "lat": "-16.526910",
+    "long": "-68.111526"
+  },
+  "GA": {
+    "name": "Georgia",
+    "tamano": "Pequeña",
+    "lat": "-16.524319",
+    "long": "-68.111984"
+  },
+  "HI": {
+    "name": "Hawaii",
+    "tamano": "Pequeña",
+    "lat": "-16.522344",
+    "long": "-68.113642"
+  },
+  "ID": {
+    "name": "Idaho",
+    "tamano": "Pequeña",
+    "lat": "-16.527171",
+    "long": "-68.104935"
+  }
+}
